@@ -2,6 +2,8 @@
 
 Fictitious javaScript conferences called full stack conf to how to use bootstrap
 
+![bootstrap](https://user-images.githubusercontent.com/25851867/27350611-649e2fec-55c0-11e7-83f6-43d36655d388.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
